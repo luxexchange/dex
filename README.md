@@ -55,4 +55,4 @@ pnpm test         # vitest run
 
 ## License
 
-MIT © 2020-2026 Lux Industries, Inc. See [LICENSE](./LICENSE).
+BSD-3-Clause © 2020-2026 Lux Industries, Inc. See [LICENSE](./LICENSE).
